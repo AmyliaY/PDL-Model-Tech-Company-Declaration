@@ -8,6 +8,8 @@
 - [胖东来模式综述-developing.md](%E8%83%96%E4%B8%9C%E6%9D%A5%E6%A8%A1%E5%BC%8F%E7%BB%BC%E8%BF%B0-developing.md)
 - [胖东来模式当前存在的一些缺陷以及对解决方案的思考探索-developing.md](%E8%83%96%E4%B8%9C%E6%9D%A5%E6%A8%A1%E5%BC%8F%E5%BD%93%E5%89%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E7%BC%BA%E9%99%B7%E4%BB%A5%E5%8F%8A%E5%AF%B9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E7%9A%84%E6%80%9D%E8%80%83%E6%8E%A2%E7%B4%A2-developing.md)
 - [胖东来的前世今生及发展史.md](%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%E5%8F%8A%E5%8F%91%E5%B1%95%E5%8F%B2.md)
+- [稻盛哲学与胖东来模式的关联与差异分析.md](%E7%A8%BB%E7%9B%9B%E5%93%B2%E5%AD%A6%E4%B8%8E%E8%83%96%E4%B8%9C%E6%9D%A5%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%85%B3%E8%81%94%E4%B8%8E%E5%B7%AE%E5%BC%82%E5%88%86%E6%9E%90.md)
+
 
 ## 内循环
 - [优化企业财富分配规则，大幅提升员工待遇，大力拉动内循环-developing.md](./优化企业财富分配规则，大幅提升员工待遇，大力拉动内循环-developing.md)
